@@ -10,7 +10,7 @@ A collection of utilities bringing back classic features to Windows.
 [![GitHub Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu.svg?style=flat-square)](https://github.com/Open-Shell/Open-Shell-Menu/releases/latest)&nbsp;&nbsp;[![GitHub Pre-Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu/all.svg?style=flat-square)](https://github.com/Open-Shell/Open-Shell-Menu/releases)&nbsp;&nbsp;[![Build status](https://img.shields.io/appveyor/build/passionate-coder/Open-Shell-Menu?logo=appveyor&style=flat-square)](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master)&nbsp;&nbsp;[![GitQ](https://img.shields.io/badge/gitq-discussions-1577fa?style=flat-square)](https://gitq.com/passionate-coder/Classic-Start)&nbsp;&nbsp;[![Gitter chat](https://img.shields.io/gitter/room/badges/shields.svg?color=lightseagreen&logo=gitter&style=flat-square)](https://gitter.im/open-shell/Lobby)&nbsp;&nbsp;[![Discord](https://img.shields.io/discord/757701054782636082?color=mediumslateblue&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/7H6arr5)
 
 ### Features
-- Classic style Start menu for Windows 7, 8, 8.1, 10
+- Classic style Start menu for Windows 7, 8, 8.1, 10, 11
 - Toolbar for Windows Explorer
 - Explorer status bar with file size and disk space
 - Classic copy UI (Windows 7 only)
