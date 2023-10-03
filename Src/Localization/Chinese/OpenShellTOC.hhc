@@ -33,32 +33,32 @@
 			<param name="URL" value="StartMenu.html#settings">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Administrative Settings">
+			<param name="Name" value="管理设置">
 			<param name="Local" value="StartMenu.html#admin">
 			<param name="URL" value="StartMenu.html#admin">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="More About Skins">
+			<param name="Name" value="更多关于皮肤">
 			<param name="Local" value="StartMenu.html#skins">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Search">
+			<param name="Name" value="搜索">
 			<param name="Local" value="StartMenu.html#search">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Custom Start Button">
+			<param name="Name" value="自定义 [开始] 按钮">
 			<param name="Local" value="StartMenu.html#button">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Localization">
+			<param name="Name" value="本地化">
 			<param name="Local" value="StartMenu.html#localization">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Command Line">
+			<param name="Name" value="命令行">
 			<param name="Local" value="StartMenu.html#command_line">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Accessibility">
+			<param name="Name" value="辅助功能">
 			<param name="Local" value="StartMenu.html#accessibility">
 			</OBJECT>
 	</UL>
@@ -69,11 +69,11 @@
 		</OBJECT>
 	<UL>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="New Copy UI">
+			<param name="Name" value="新复制界面">
 			<param name="Local" value="ClassicExplorer.html#copy">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Alt+Enter in the folder panel">
+			<param name="Name" value="在文件夹面板中按 Alt+Enter 键">
 			<param name="Local" value="ClassicExplorer.html#alt_enter">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
